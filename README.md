@@ -6,7 +6,7 @@ Price estimation of some product depending on many factors is a complicated task
 
 The Deep Learning approach of image to price task is not commonly used practice on market yet, but there are examples of some use cases. For example [Vehicle Price Prediction using Visual Features](https://arxiv.org/abs/1803.11227) and [Vision-based Real Estate Price Estimation](https://www.researchgate.net/publication/318528081_Vision-based_Real_Estate_Price_Estimation). 
 
-In order of participation TDeFi Business Hackathon we are proposing to your attention MeatNet a neural net that do price prediction of nft image
+In order of participation TDeFi Business Hackathon we are proposing to your attention MeatNet🥩 a neural net that do price prediction of nft image
 
 #### Data parsing
 - NFT token address, token id, current market values parsed from SQLite [database](https://www.kaggle.com/simiotic/ethereum-nfts)
