@@ -19,6 +19,8 @@ Python scripts for folowing those steps and further info you can find [there](ht
 
 #### Neural Net Architecture
 
+![image](https://user-images.githubusercontent.com/44669029/142065880-f561c248-faf1-446d-b754-5e8d11896a37.png)
+
 #### Hyperparameters, methrics and training process 
 
 #### Evaluation results
