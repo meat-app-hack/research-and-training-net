@@ -2,7 +2,7 @@
 
 #### Research
 
-Price estimation of some product depending on many factors is a complicated task if it isn't evetyday buy/sell case like food in local store. 
+Price estimation of some product depending on many factors is a complicated task if it isn't evetyday buy/sell case like food in local store. The task is even more sophisticated if you can't have an instant physical acces to product and you can only use visual information or the product itself is image.  
 
 There Deep Learning approach of image to price task is not commonly used practice yet on market, but there are examples of  some use cases. For example [Vehicle Price Prediction using Visual Features](https://arxiv.org/abs/1803.11227) and [Vision-based Real Estate Price Estimation](https://www.researchgate.net/publication/318528081_Vision-based_Real_Estate_Price_Estimation).
 
