@@ -21,7 +21,8 @@ Python scripts for folowing those steps and further info you can find [there](ht
 
 ![image](https://user-images.githubusercontent.com/44669029/142066229-aaf63bac-0a6d-442b-809c-2acb2f74549b.png)
 
-![image](https://user-images.githubusercontent.com/44669029/142065880-f561c248-faf1-446d-b754-5e8d11896a37.png)
+![image](https://user-images.githubusercontent.com/44669029/142066413-464eafe4-457c-42b6-b36d-b2f784b633b0.png)
+
 
 #### Hyperparameters, methrics and training process 
 
