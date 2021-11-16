@@ -2,11 +2,12 @@
 
 #### Research
 
-Price estimation of some product depending on many factors is a complicated task if it isn't evetyday buy/sell case like food in local store. The task is even more sophisticated if you can't have an instant physical acces to product and you can only use visual information or the product itself is image. For such use case is good practice to avoid some human-factors, speculative and misleading intentions with delegating the bottleneck point of buy/sell to machine algorythm. We have researched possibility of using Neural Nets for being that algorythm.
+Price estimation of some product depending on many factors is a complicated task if it isn't an everyday buy/sell case like food in a local store. The task is even more sophisticated if you don't have instant physical access to the product and you can only use visual information or the product itself is an image. For such use cases it is good practice to avoid some human-factors, speculative and misleading intentions with delegating the bottleneck point of buy/sell to machine algorithms. We have researched the possibility of using Neural Nets for that algorithm.
 
-The Deep Learning approach of image to price task is not commonly used practice on market yet, but there are examples of some use cases. For example [Vehicle Price Prediction using Visual Features](https://arxiv.org/abs/1803.11227) and [Vision-based Real Estate Price Estimation](https://www.researchgate.net/publication/318528081_Vision-based_Real_Estate_Price_Estimation). 
+The Deep Learning approach of image to price task is not commonly used in the market yet, but there are examples of some use cases. For example [Vehicle Price Prediction using Visual Features](https://arxiv.org/abs/1803.11227) and [Vision-based Real Estate Price Estimation](https://www.researchgate.net/publication/318528081_Vision-based_Real_Estate_Price_Estimation). 
 
 In order of participation TDeFi Business Hackathon we are proposing to your attention MeatNet🥩 a neural net that do price prediction of nft image
+
 
 #### Data parsing
 - NFT token address, token id, current market values parsed from SQLite [database](https://www.kaggle.com/simiotic/ethereum-nfts)
