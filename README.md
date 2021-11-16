@@ -2,9 +2,11 @@
 
 #### Research
 
-[Vehicle Price Prediction using Visual Features](https://arxiv.org/abs/1803.11227), [Vision-based Real Estate Price Estimation](https://www.researchgate.net/publication/318528081_Vision-based_Real_Estate_Price_Estimation)
+Price estimation of some product depending on many factors is a complicated task if it isn't evetyday buy/sell case like food in local store. 
 
-[for the further nft market analysis see also](https://www.kaggle.com/simiotic/ethereum-nft-analysis)
+There Deep Learning approach of image to price task is not commonly used practice yet on market, but there are examples of  some use cases. For example [Vehicle Price Prediction using Visual Features](https://arxiv.org/abs/1803.11227) and [Vision-based Real Estate Price Estimation](https://www.researchgate.net/publication/318528081_Vision-based_Real_Estate_Price_Estimation).
+
+For the further nft market analysis [see also](https://www.kaggle.com/simiotic/ethereum-nft-analysis)
 
 #### Data parsing
 - NFT token address, token id, current market values parsed from SQLite [database](https://www.kaggle.com/simiotic/ethereum-nfts)
