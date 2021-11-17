@@ -77,7 +77,7 @@ For more detailes about virtual environment installation and using the model che
 
 - For the further NFT market analysis [see also this](https://www.kaggle.com/simiotic/ethereum-nft-analysis). Top 16.71% of NFT holders control 80.98% of NFTs [source](https://github.com/bugout-dev/moonstream/blob/main/datasets/nfts/papers/ethereum-nfts.pdf)
 - Vision-based Real Estate Price Estimation implementation [tutorial with code](https://www.pyimagesearch.com/2019/01/21/regression-with-keras/)
-- About data preprocessing for good loss convergency [link](https://machinelearningmastery.com/how-to-normalize-center-and-standardize-images-with-the-imagedatagenerator-in-keras/)
+- About data preprocessing for good loss convergence [link](https://machinelearningmastery.com/how-to-normalize-center-and-standardize-images-with-the-imagedatagenerator-in-keras/)
 
 
 
