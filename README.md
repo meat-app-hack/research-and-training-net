@@ -19,21 +19,17 @@ Python scripts for folowing those steps and further info you can find [there](ht
 
 #### Data preprocessing
 
+
+
 #### Neural Net Architecture
 
 VGG16 feature extractor backbone with Fully-connected and classification layer is our complete design
-
 
 ![image](https://user-images.githubusercontent.com/44669029/142066229-aaf63bac-0a6d-442b-809c-2acb2f74549b.png)
 
 ![image](https://user-images.githubusercontent.com/44669029/142066573-6e785095-cd13-42f8-8ced-debacb966b90.png)
 
-
-
-
-#### Hyperparameters, methrics 
-
-#### Training process
+#### Training pipeline
 
 - The easier the better. Using [ImageNet](https://www.image-net.org/) pretrained VGG16 backbone for feature extraction as a first step we did 3-epochs predtraining of our last fully-connected layer and classification layer. We used [Categorical Crossentropy](https://keras.io/api/losses/probabilistic_losses/#categorical_crossentropy-function) as loss function of our network output and optimized it with [RMSprop](https://keras.io/api/optimizers/rmsprop/) momentum optimizer and learning rate = 2e-5. [Accuracy](https://keras.io/api/metrics/accuracy_metrics/) has been chosen as a quality metrics.
 
