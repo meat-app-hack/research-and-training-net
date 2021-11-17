@@ -38,7 +38,9 @@ train_datagen = ImageDataGenerator(
  fill_mode='nearest')
  ```
  
- - In the lack of data conditions, we decided to do a train/test split in 30/1 ratio.
+ - In the lack of data conditions, we decided to do a train/test split in 30/1 ratio
+ 
+The more data, the more perfect a neural network can be trained.
  
 #### Neural Net Architecture
 
