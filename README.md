@@ -39,7 +39,7 @@ VGG16 feature extractor backbone with Fully-connected and classification layer i
 
 ![12](https://user-images.githubusercontent.com/44669029/142090489-eb92213a-6b2d-4622-892b-e5a309e878b1.png)
 
-- Then last 3 convolution layers of VGG16 were unfreezed and that part of convolution base with pretrained classification layers had been training for 100 epochs with the half of the last learning rate
+- Then the last 3 convolution layers of VGG16 were unfreezed and that part of the convolution base with pretrained classification layers had been training for 100 epochs with the learning rate cutted by half
 
 ![34](https://user-images.githubusercontent.com/44669029/142092070-b929f1ea-4eb0-44a5-b004-351b47e77b0d.png)
 
