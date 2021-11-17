@@ -71,6 +71,6 @@ test_acc = 1.0
 
 #### How to use
 
-For more detailes about wirtual environment installation and using the MeatNet check [there](https://github.com/meat-app-hack/nft-predictor)
+For more detailes about virtual environment installation and using the MeatNet check [there](https://github.com/meat-app-hack/nft-predictor)
 
 For the further NFT market analysis [see also](https://www.kaggle.com/simiotic/ethereum-nft-analysis)
