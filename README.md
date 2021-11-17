@@ -24,9 +24,7 @@ Python scripts for folowing those steps and further info you can find [there](ht
 
 - All of 4k images were labelled by their classes and resized by height, width = (300, 300) with RGB channels (Alpha channel of some of those images replaced)
 
-- On a data loading step images pexels intensity were rescaled by 1./255 for the loss function to converge correctly
-
-- Training data generator was configured with a wide range of data augmentation modes
+- On a data loading step images pexels intensity were rescaled by 1./255 for the loss function to converge correctly. Training data generator was configured with a wide range of data augmentation modes
 
 ```python
 train_datagen = ImageDataGenerator(
