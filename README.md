@@ -39,9 +39,13 @@ VGG16 feature extractor backbone with Fully-connected and classification layer i
 
 ![34](https://user-images.githubusercontent.com/44669029/142092070-b929f1ea-4eb0-44a5-b004-351b47e77b0d.png)
 
-
 #### Evaluation results
 
+As you can see [there](https://github.com/meat-app-hack/research-and-training-net/blob/main/classification_eval.ipynb)
 
+```python
+test_loss = 1.1514962352521252e-05
+test_acc = 1.0
+```
 
 For the further NFT market analysis [see also](https://www.kaggle.com/simiotic/ethereum-nft-analysis)
