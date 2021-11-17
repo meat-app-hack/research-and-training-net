@@ -35,12 +35,13 @@ VGG16 feature extractor backbone with Fully-connected and classification layer i
 
 #### Training process
 
-- The easier the better. Using [ImageNet](https://www.image-net.org/) predtrained VGG16 backbone for feature extraction as a first step we did 3-epochs predtraining of our last fully-connected layer and classification layer. We used [Categorical Crossentropy](https://keras.io/api/losses/probabilistic_losses/#categorical_crossentropy-function) as loss function of our network output and optimized it with [RMSprop](https://keras.io/api/optimizers/rmsprop/) momentum optimizer and learning rate = 2e-5. [Accuracy](https://keras.io/api/metrics/accuracy_metrics/) has been chosen as a quality metrics. 
+- The easier the better. Using [ImageNet](https://www.image-net.org/) pretrained VGG16 backbone for feature extraction as a first step we did 3-epochs predtraining of our last fully-connected layer and classification layer. We used [Categorical Crossentropy](https://keras.io/api/losses/probabilistic_losses/#categorical_crossentropy-function) as loss function of our network output and optimized it with [RMSprop](https://keras.io/api/optimizers/rmsprop/) momentum optimizer and learning rate = 2e-5. [Accuracy](https://keras.io/api/metrics/accuracy_metrics/) was chosen as a quality metrics
 
 ![12](https://user-images.githubusercontent.com/44669029/142090489-eb92213a-6b2d-4622-892b-e5a309e878b1.png)
 
-- Then
+- Then last 3 convolution layers of VGG16 were unfreezed and that part of convolution base with pretrained classification layers had been training for 100 epochs with the half of the last learning rate
 
+![34](https://user-images.githubusercontent.com/44669029/142092070-b929f1ea-4eb0-44a5-b004-351b47e77b0d.png)
 
 
 #### Evaluation results
