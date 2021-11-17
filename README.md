@@ -37,6 +37,9 @@ train_datagen = ImageDataGenerator(
  horizontal_flip=True,
  fill_mode='nearest')
  ```
+ 
+ - In the lack of data conditions, we decided to do a train/test split in 30/1 ratio.
+ 
 #### Neural Net Architecture
 
 VGG16 feature extractor backbone with Fully-connected and classification layer is our complete design
