@@ -36,8 +36,11 @@ VGG16 feature extractor backbone with Fully-connected and classification layer i
 #### Training process
 
 - Using [ImageNet](https://www.image-net.org/) predtrained VGG16 backbone for feature extraction we did predtraining of our last fully-connected layer and classification layer
+
 ![image](https://user-images.githubusercontent.com/44669029/142090075-33d24564-610e-406d-b1af-ee0c54aa5f46.png)
+
 ![1](https://user-images.githubusercontent.com/44669029/142090132-bf233e22-1df5-4776-9ae1-b9bdf389bb00.png)
+
 ![2](https://user-images.githubusercontent.com/44669029/142090137-c25ea726-19bb-4663-b704-c9d6ae9f2a04.png)
 
 
