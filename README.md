@@ -16,7 +16,7 @@ In order of participation TDeFi Business Hackathon we are proposing to your atte
 - NFT token address, token id, current market values parsed from SQLite [database](https://www.kaggle.com/simiotic/ethereum-nfts)
 - Image data parsed via indexed database of [Infura API](https://infura.io/)
 
-Python scripts for folowing those steps and further info you can find [there](https://github.com/meat-app-hack/nft-data-parser). Another option for NFT image parse directly from blockchain on TypeScript is [there](https://github.com/meat-app-hack/zora-nft-data-parser)
+Python scripts for following those steps and further info you can find [there](https://github.com/meat-app-hack/nft-data-parser). Another option for NFT image parse directly from blockchain on TypeScript is [there](https://github.com/meat-app-hack/zora-nft-data-parser)
 
 #### Data preprocessing
 
