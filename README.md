@@ -68,6 +68,7 @@ As you can see [there](https://github.com/meat-app-hack/research-and-training-ne
 test_loss = 1.1514962352521252e-05
 test_acc = 1.0
 ```
+Here are overfit as we can see from plots and evaluation results, that tells us the data has specific features distribution neurahive able to learn.
 
 #### How to use MeatNet
 
